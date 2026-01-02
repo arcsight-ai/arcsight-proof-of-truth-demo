@@ -1,0 +1,3 @@
+[submodule "system-graph"]
+	path = system-graph
+	url = https://github.com/arcsight-ai/system-graph.git
